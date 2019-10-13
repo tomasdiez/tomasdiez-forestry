@@ -5,6 +5,6 @@ author: Nichlas W. Andersen
 excerpt: Get up and running with a fresh macOS Mojave install
 
 ---
-#### My blog post
+#### So what is this?
 
-Empty post
+I still cannot publish in forestry
