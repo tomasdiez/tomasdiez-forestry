@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/96262328-5cbd-4a08-8f53-4f81d7c39166/deploy-status)](https://app.netlify.com/sites/confident-mcclintock-37ec7b/deploys)
 <p align="center">
   <img src="https://file-xidfrcjkaq.now.sh/" height="240">
   <h3 align="center">Gridsome x Forestry</h3>
